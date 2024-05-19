@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Han Wang's Homepahe"
+title                    : "Han Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Han Wang"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Han Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #bio              : "Short biography for the left-hand sidebar"
+  location         : "Karl-Schwarzschild-Str. 1 Garching Germany"
+  employer         : "Max Planck Institute for Astrophysics"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wanghan@mpa-garching.mpg.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
